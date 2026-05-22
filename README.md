@@ -1,6 +1,5 @@
 # 💫 About Me:
-Mobile Developer with 7+ years of experience building scalable cross-platform applications using Flutter & Dart.  
-Focused on creating polished mobile products with strong UI/UX, clean architecture, and AI-powered experiences.
+Mobile Developer with 7+ years of experience in mobile development, specializing in Flutter, Dart, and scalable cross-platform applications.
 
 🚀 Built and launched multiple production apps from scratch  
 📱 Experienced with Android/iOS releases, CI/CD, App Store & Google Play deployments  
